@@ -17,6 +17,8 @@ namespace Ejercicio_I05
                 Console.WriteLine("Ingrese un número entero: ");
                 numIngresadoStr = Console.ReadLine();
             }
+
+            // COMPLETAR
         }
     }
 }
