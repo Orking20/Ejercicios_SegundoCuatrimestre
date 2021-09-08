@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio_I04
+namespace Ejercicio_C01
 {
-    public static class Validador
+    class Validador
     {
         public static bool ValidarRespuesta()
         {
