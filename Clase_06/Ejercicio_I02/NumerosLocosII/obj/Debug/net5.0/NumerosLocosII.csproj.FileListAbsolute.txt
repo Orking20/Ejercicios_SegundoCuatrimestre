@@ -1,0 +1,16 @@
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\bin\Debug\net5.0\NumerosLocosII.exe
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\bin\Debug\net5.0\NumerosLocosII.deps.json
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\bin\Debug\net5.0\NumerosLocosII.runtimeconfig.json
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\bin\Debug\net5.0\NumerosLocosII.runtimeconfig.dev.json
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\bin\Debug\net5.0\NumerosLocosII.dll
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\bin\Debug\net5.0\ref\NumerosLocosII.dll
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\bin\Debug\net5.0\NumerosLocosII.pdb
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\obj\Debug\net5.0\NumerosLocosII.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\obj\Debug\net5.0\NumerosLocosII.AssemblyInfoInputs.cache
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\obj\Debug\net5.0\NumerosLocosII.AssemblyInfo.cs
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\obj\Debug\net5.0\NumerosLocosII.csproj.CoreCompileInputs.cache
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\obj\Debug\net5.0\NumerosLocosII.dll
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\obj\Debug\net5.0\ref\NumerosLocosII.dll
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\obj\Debug\net5.0\NumerosLocosII.pdb
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\obj\Debug\net5.0\NumerosLocosII.genruntimeconfig.cache
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I02\NumerosLocosII\obj\Debug\net5.0\NumerosLocosII.csproj.AssemblyReference.cache

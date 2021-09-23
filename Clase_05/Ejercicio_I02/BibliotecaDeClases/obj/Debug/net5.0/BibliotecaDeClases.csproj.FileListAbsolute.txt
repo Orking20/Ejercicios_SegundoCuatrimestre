@@ -1,0 +1,12 @@
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_05\Ejercicio_I02\BibliotecaDeClases\bin\Debug\net5.0\BibliotecaDeClases.deps.json
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_05\Ejercicio_I02\BibliotecaDeClases\bin\Debug\net5.0\BibliotecaDeClases.dll
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_05\Ejercicio_I02\BibliotecaDeClases\bin\Debug\net5.0\ref\BibliotecaDeClases.dll
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_05\Ejercicio_I02\BibliotecaDeClases\bin\Debug\net5.0\BibliotecaDeClases.pdb
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_05\Ejercicio_I02\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.csproj.AssemblyReference.cache
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_05\Ejercicio_I02\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_05\Ejercicio_I02\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.AssemblyInfoInputs.cache
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_05\Ejercicio_I02\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.AssemblyInfo.cs
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_05\Ejercicio_I02\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_05\Ejercicio_I02\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.dll
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_05\Ejercicio_I02\BibliotecaDeClases\obj\Debug\net5.0\ref\BibliotecaDeClases.dll
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_05\Ejercicio_I02\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.pdb

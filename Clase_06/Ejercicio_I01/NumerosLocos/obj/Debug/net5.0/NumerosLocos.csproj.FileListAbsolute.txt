@@ -1,0 +1,16 @@
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\bin\Debug\net5.0\NumerosLocos.exe
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\bin\Debug\net5.0\NumerosLocos.deps.json
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\bin\Debug\net5.0\NumerosLocos.runtimeconfig.json
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\bin\Debug\net5.0\NumerosLocos.runtimeconfig.dev.json
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\bin\Debug\net5.0\NumerosLocos.dll
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\bin\Debug\net5.0\ref\NumerosLocos.dll
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\bin\Debug\net5.0\NumerosLocos.pdb
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\obj\Debug\net5.0\NumerosLocos.csproj.AssemblyReference.cache
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\obj\Debug\net5.0\NumerosLocos.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\obj\Debug\net5.0\NumerosLocos.AssemblyInfoInputs.cache
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\obj\Debug\net5.0\NumerosLocos.AssemblyInfo.cs
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\obj\Debug\net5.0\NumerosLocos.csproj.CoreCompileInputs.cache
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\obj\Debug\net5.0\NumerosLocos.dll
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\obj\Debug\net5.0\ref\NumerosLocos.dll
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\obj\Debug\net5.0\NumerosLocos.pdb
+D:\UTN\Segundo cuatrimestre\Programacion II\Repositorio\Clase_06\Ejercicio_I01\NumerosLocos\obj\Debug\net5.0\NumerosLocos.genruntimeconfig.cache
